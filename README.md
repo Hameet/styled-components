@@ -1,2 +1,1 @@
-# styled-components
-styled-components
+## Learning to work with Styled components
